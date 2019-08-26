@@ -1,0 +1,6 @@
+framework module Pods_IEV_ExpenseTests {
+  umbrella header "Pods-IEV ExpenseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
