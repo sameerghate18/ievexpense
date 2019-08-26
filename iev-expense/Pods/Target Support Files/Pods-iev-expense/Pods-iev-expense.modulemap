@@ -1,0 +1,6 @@
+framework module Pods_iev_expense {
+  umbrella header "Pods-iev-expense-umbrella.h"
+
+  export *
+  module * { export * }
+}
