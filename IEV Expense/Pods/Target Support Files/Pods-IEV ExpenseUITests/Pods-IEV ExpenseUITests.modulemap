@@ -1,6 +1,0 @@
-framework module Pods_IEV_ExpenseUITests {
-  umbrella header "Pods-IEV ExpenseUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
